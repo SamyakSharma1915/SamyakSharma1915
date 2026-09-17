@@ -48,10 +48,6 @@ Systems and C   ██████████████░░░░░░  70
 Music tech      ███████████████░░░░░  75%
 ```
 
-## My philosophy
-
-> You don't need perfect hardware or perfect conditions to start building—curiosity, persistence, and a willingness to experiment can take you surprisingly far.
-
 ## Connect with me
 
 - GitHub: (https://github.com/SamyakSharma1915)
